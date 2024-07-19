@@ -1,0 +1,2 @@
+# HighPerformanceSQLite
+Practices about HPSQLite
