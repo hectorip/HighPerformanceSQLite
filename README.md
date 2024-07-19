@@ -1,2 +1,3 @@
 # HighPerformanceSQLite
-Practices about HPSQLite
+
+Prácticas del curso High Performance SQLite
