@@ -27,7 +27,9 @@ print(result.fetchall())
 db.execute('INSERT INTO authors (name) VALUES (?)', ('Fiodor Dostoievsky',))
 db.execute('INSERT INTO authors (name) VALUES (?)', ('Marco Aurelio',))
 conn.commit()
-# Consultar el autores
+
+# Consultar autores
 
 result = db.execute('SELECT * FROM authors')
 print(result.fetchall())
+
